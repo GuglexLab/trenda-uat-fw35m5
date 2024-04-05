@@ -1,0 +1,8 @@
+{
+  "name": "trenda-uat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "78be7953"
+}
